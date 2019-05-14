@@ -2,7 +2,7 @@
 
 This contains only #resources and #src folder,
 
-This repo contains the debug_apk file download it and install in android device which is running from API VERSION 23 (6.0)
+This repo contains the *DEBUG_APK* file download it and install in android device which is running from API VERSION 23 (6.0) to view the application and its modules
 
 To run this application one shoud have the Node CLI , Angular, Ionic framework was installed in the machine.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
